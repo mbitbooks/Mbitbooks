@@ -1,0 +1,9 @@
+Building MBITBOOKS
+
+See doc/readme-qt.rst for instructions on building MBITBOOKS-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MBITBOOKS.
+
+See doc/build-*.txt for instructions on building mbitbooksd,
+the intended-for-services, no-graphical-interface, reference
+implementation of MBITBOOKS.
